@@ -16,6 +16,6 @@ In order to use it you need to
 
 4) in the application manifest replace the default AndroidJunitRunner with 
 
-<instrumentation 
+"<instrumentation 
     android:name="com.dw.android.junit.report.JUnitReportRunner" 
-    android:targetPackage="XXX"/>
+    android:targetPackage="XXX"/>"
